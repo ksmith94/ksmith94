@@ -33,3 +33,6 @@ a:hover {
   margin-left: 15px;
   float: left; 
 }
+#home > li {
+  display: inline;
+}
