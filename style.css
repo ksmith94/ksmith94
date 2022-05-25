@@ -20,25 +20,16 @@ a:hover {
 .menu {
   display: block;
   float: left;
+  margin-top: 20px;
 }
-#about {
+.menu > ul {
+  list-style: none;
+  margin-left: -20px;
+}
+.menu_item {
   max-width: 500px;
   min-width: 200px;
   margin-top: 20px;
   margin-left: 15px;
   float: left; 
-}
-#books {
-  max-width: 500px;
-  min-width: 200px;
-  margin-top: 20px;
-  margin-left: 15px;
-  float: left;
-}
-#music {
-  max-width: 500px;
-  min-width: 200px;
-  margin-top: 20px;
-  margin-left: 15px;
-  float: left;
 }
